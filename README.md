@@ -3,4 +3,4 @@ This is a game I wrote on a computer with no GUI and less than 512 MB of RAM. It
 
 It's a huge megafile with everything you need to make the game work inside it - apart from ncurses which... I mean... if you don't have ncurses go get a life and download it-.
 
-Anyway it's pretty well optimized (isn't it?) and passed all the tests on gcc's and clang's static analyzer and gcc + valgrind's memory sanityzer, so well, I'm pretty satisfied. If you feel like rearranging it into multiple files push away, if it works I'll accept everything.
+Anyway it's pretty well optimized (isn't it?) and passed all the tests on gcc's and clang's static analyzer and gcc + valgrind's memory sanityzer, so well, I'm pretty satisfied. If you feel like rearranging it into multiple files feel free to push, if it works I'll accept everything.
